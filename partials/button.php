@@ -1,0 +1,2 @@
+<a target="_blank" class='blantershow-chat' href='https://wa.wizard.id/tolisfresh' title='Whatsapp'><i class='fab fa-whatsapp'></i>WhatsApp</a>
+<a class='blantershow-up back-to-top' href='#' title='Instagram'><i class='fa fa-arrow-up'></i></a>
